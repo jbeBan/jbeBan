@@ -1,16 +1,18 @@
-### Hi there 👋
+# Hello!
 
-<!--
-**jbeBan/jbeBan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## My name is Jacob Bañuelos, and welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+🎓 I am currently a Junior at Utah Valley University studying for a Bachelor of Science in Computer Science, with an emphasis in Full Stack Web Development.
+Right now, I am learning the MEVN stack along with TypeScript and Java.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👀 Feel free to take a look around and add me on [LinkedIn](www.linkedin.com/in/jacob-banuelos), if you would like to do so.
+
+---
+
+### Programming Languages
+
+💻 `JavaScript` `TypeScript` `Python` `Java` `C++`
+
+### Frameworks
+
+⚡ `Vue.js` `Flask` `W3CSS`
