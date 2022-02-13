@@ -7,12 +7,16 @@ Right now, I am learning the MEVN stack along with TypeScript and Java.
 
 👀 Feel free to take a look around and add me on [LinkedIn](https://www.linkedin.com/in/jacob-banuelos), if you would like to do so.
 
----
+![#ffffff](https://via.placeholder.com/1010x2/ffffff/000000?text=+)
 
 ### Programming Languages
 
 💻 `JavaScript` `TypeScript` `Python` `Java` `C++`
 
+
+
 ### Frameworks
 
 ⚡ `Vue.js` `Flask` `W3CSS`
+
+
