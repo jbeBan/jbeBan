@@ -10,12 +10,10 @@
 
 ### Programming Languages
 
-💻 `JavaScript` `TypeScript` `Python` `Java` `C++`
-
-
+💻 `Python` `Java` `JavaScript` `TypeScript` `C++`
 
 ### Frameworks
 
-⚡ `Vue.js` `Flask` `W3CSS`
+⚡ `Flask` `Vue.js` `W3CSS`
 
 
