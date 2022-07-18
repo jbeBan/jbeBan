@@ -14,4 +14,4 @@
 
 ### Frameworks
 
-⚡ `Flask` `Vue.js` `W3CSS`
+⚡ `Flask` `W3CSS`
