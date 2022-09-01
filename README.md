@@ -4,7 +4,7 @@
 
 🎓 I am currently a Junior at Utah Valley University studying for a Bachelor of Science in Computer Science. I love learning and teaching people how to program. After I graduate with my B.S. in CS, I plan on getting a Master's degree in Computer Science. Right now, I am learning Linux along with C and Haskell.
 
-👀 Feel free to take a look around and add me on [LinkedIn](https://www.linkedin.com/in/jacob-banuelos), if you would like to do so.
+👀 Feel free to take a look around and add me on [LinkedIn](https://www.linkedin.com/in/jacob-banuelos).
 
 ---
 
