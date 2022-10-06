@@ -10,7 +10,7 @@
 
 ### Programming Languages
 
-💻 `Python` `Java` `C++` `JavaScript` `C`
+💻 `Python` `Java` `C/C++` `JavaScript`
 
 ### Frameworks
 
