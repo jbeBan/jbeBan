@@ -10,8 +10,8 @@
 
 ### Programming Languages
 
-💻 `Python` `Java` `C++` `C`
+💻 `Java` `C++` `Python` `C`
 
 ### Web Technologies
 
-⚡ `JavaScript` `HTML` `CSS` `Bootstrap` `Flask`
+⚡ `JavaScript` `HTML` `CSS` `Bootstrap`
