@@ -1,8 +1,8 @@
 # Hello!
 
-## My name is Jacob Bañuelos, and welcome to my GitHub profile!
+## My name is Jacob Bañuelos, and welcome to my GitHub profile.
 
-🎓 I am currently a Senior at Utah Valley University studying for a Bachelor of Science in Computer Science. I love learning and teaching people how to program. After I graduate with my B.S. in CS, I plan on pursuing a Master's in Computer Science in the near future. Right now, I am learning C#/.NET along with TypeScript and Node.js.
+🎓 I'm currently a Senior at Utah Valley University studying for a Bachelor of Science in Computer Science. I love learning and teaching people how to program. After I graduate with my B.S. in CS, I plan on pursuing a Master's in Computer Science in the near future. Right now, I'm doing research in Programming Language Theory (PLT) to see what properties can be proven about certain classes of programs.
 
 👀 Feel free to take a look around and add me on [LinkedIn](https://www.linkedin.com/in/jacob-banuelos).
 
