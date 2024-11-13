@@ -14,7 +14,7 @@
 
 ### Web Technologies
 
-⚡ `JavaScript` `HTML` `CSS` `Bootstrap`
+⚡ `JavaScript` `TypeScript` `React` `HTML` `CSS` `Bootstrap`
 
 ### Databases
 
